@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **Nathanael Chandra**.<br>
 
-Saya seorang **Mahasiswa** di [Universitas Kristen Petra](https://petra.ac.id/).<br>
+**Mahasiswa** di [Universitas Kristen Petra](https://petra.ac.id/).<br>
+Seorang **Fullstack Developer** yang berfokus pada web development.<br>
 
 ### Github Statistic
 <p align="left">
